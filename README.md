@@ -20,9 +20,11 @@ To run this project, follow these steps:
 
 This project uses the following Flutter packages:
 
-- [pdf](https://pub.dev/packages/pdf) for PDF generation
-- [path_provider](https://pub.dev/packages/path_provider) for accessing system paths
-- [file_selector](https://pub.dev/packages/file_selector) for opening files (optional)
+- [pdf](https://pub.dev/packages/pdf) (v3.9.0) for creating PDF documents
+- [file_picker](https://pub.dev/packages/file_picker) (v5.2.6) for selecting files
+- [printing](https://pub.dev/packages/printing) (v5.10.1) for printing PDF documents
+- [file_selector](https://pub.dev/packages/file_selector) (v0.9.0) for saving and opening files
+- [google_fonts](https://pub.dev/packages/google_fonts) for using custom Google Fonts
 
 ## License
 
