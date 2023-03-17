@@ -26,6 +26,14 @@ This project uses the following Flutter packages:
 - [file_selector](https://pub.dev/packages/file_selector) (v0.9.0) for saving and opening files
 - [google_fonts](https://pub.dev/packages/google_fonts) for using custom Google Fonts
 
+## Getting Started
+
+To run this project, clone the repository and follow these steps:
+
+1. Install Flutter by following the [official documentation](https://flutter.dev/docs/get-started/install)
+2. Navigate to the project directory and run `flutter pub get`
+3. Run `flutter run` to start the app
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
