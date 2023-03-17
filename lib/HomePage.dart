@@ -49,26 +49,7 @@ class _HomePageState extends State<HomePage> {
 
     widgets.add(pw.Column(
         children: [
-          pw.Text('BILL', style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 10)),
-          pw.Text('MRF Trading Company', style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 14)),
-          pw.Text('(ESPON, CANON, HP, LEXMARK, SAMSUNG, PRINTER ACCESSORIES IMPORTER & STATIONERY GOODS SUPPLIERS)', style: pw.TextStyle(fontSize: 8)),
-          pw.SizedBox(height: 10),
-          pw.Row(
-              children: [
-                pw.Text('Corporate Head Office: ', style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 10)),
-                pw.Text('Metropole Chamber (3rd Floor), 846, Noor Ahmed Road, Chittagong.', style: pw.TextStyle(fontSize: 10))
-              ]
-          ),
-          pw.Text('Tel: 02333356324-5, 0241360694    HOT LINE: 01716-578602', style: pw.TextStyle(fontSize: 10)),
-          pw.Text('E-Mail: roy052005@yahoo.com', style: pw.TextStyle(fontSize: 10)),
-          pw.SizedBox(height: 10),
-          pw.Row(
-              children: [
-                pw.Text('Dhaka Showroom: ', style: pw.TextStyle(fontWeight: pw.FontWeight.bold, fontSize: 10)),
-                pw.Text('Gaus-E-Pak Bhaban, Shop #10 (G/F) 28/G/1, Toyenbee Circular Road, Motiheel C/A, Dhaka-1000,', style: pw.TextStyle(fontSize: 10))
-              ]
-          ),
-          pw.Text('Tel: 02-9515730  Mob: 01817714553', style: pw.TextStyle(fontSize: 10)),
+          pw.Text('Hello world')
         ]
     ));
 
